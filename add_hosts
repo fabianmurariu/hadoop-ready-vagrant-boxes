@@ -1,0 +1,7 @@
+
+#added by bootstrapCentOs.sh 
+172.16.0.201 hadoop1.32machine.com hadoop1
+172.16.0.202 hadoop2.32machine.com hadoop2
+172.16.0.203 hadoop3.32machine.com hadoop3
+172.16.0.204 hadoop4.32machine.com hadoop4
+172.16.0.205 hadoop5.32machine.com hadoop5
